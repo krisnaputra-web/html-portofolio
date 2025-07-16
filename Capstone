@@ -1,1 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+<h1>Krisna Putra</h1>
+<img src="https://raw.githubusercontent.com/krisnaputra-web/html-portofolio/refs/heads/main/t30aBNFA.jpg"  height=200/>
+<hr/>
+ <h2>Summary</h2>
+ <p>I am a professional web developer wanna be. From now on, I will work my ass off to get my first web development project and I will continously learn everything that I need to achieve that goal. Finally I will get paid and could make a life saving account. Please</p>
+ <h2>Education</h2>
+ <ol>
+    <li>TK Widyasari</li>
+    <li>SD 4 Munchen</li>
+    <li>SMP 1 Slagh</li>
+    <li>SMA 2 Jayapura</li>
+    <li>Universitas Indonesia</li>
+ </ol>
+ <hr/>
+ <h2>Work Experience</h2>
+ <ol>
+    <li>Accounting Staff - Mckinsey ASEAN Region, 2025 - present</li>
+    <li>Budgeting Staff - Ministry of Finance Indonesia, 2017-2025</li>
+ </ol>
+ <hr/>
+ <h2>Skills</h2>
+ <ol>
+    <li>Public Speaking - Advance</li>
+    <li>Software Engineering - Beginner</li>
+    <li>Tax and Accounting - Advance</li>
+    <li>Data Analytics - Intermediate</li>
+    <li>Web Development - Intermediate</li>
+ </ol>
+ <hr/>
+ <h2>Achievement and Certifications</h2>
+ <ol>
+    <li>Coursera Data Analytics</li>
+    <li>Coursera Web Development</li>
+    <li>Chartered Financial Analyst lv 1 & 2</li>
+    <li>Indonesia Brevet Tax Lv A & B</li>
+ </ol>
+ <hr/>
+ <h2>Other</h2>
+ <ol>
+    <li><a href="https://github.com/krisnaputra-web/html-portofolio/blob/main/public/contact.html">My Contact</a></li>
+    <li><a href="https://github.com/krisnaputra-web/html-portofolio/blob/main/public/contact.html"></a>My Hobbies</li>
+ </ol>
+ <footer>
+    <p>© 2025 Krisna Putra. All rights reserved</p>
+ </footer>
+</body>
+</html>
 
